@@ -8,7 +8,8 @@ int main() {
 	while (x < 6)
 	{
 		sum += x;
-		++x;
+		
+		
 	}
 	cout<<sum;
 
